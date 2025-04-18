@@ -1,4 +1,3 @@
-set -e
 sudo dnf update -y
 sudo dnf list postgresql-server
 sudo dnf install -y postgresql-server postgresql
