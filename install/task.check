@@ -1,0 +1,8 @@
+note: postgresql should be seen in a repo index
+begin:
+Available Packages
+postgresql-server.
+end:  
+
+note: postgresql server should be started
+Started PostgreSQL database server
